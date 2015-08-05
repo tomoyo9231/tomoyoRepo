@@ -1,2 +1,3 @@
 # tomoyoRepo
 the quick brown fox jumps over the lazy dog...
+git is awesome.
